@@ -87,17 +87,17 @@ _(Replace with your actual Netlify link)_
 
 ## 📸 Screenshots
 ### 🟢 Homepage with Chatbot Integrated
-![Chatbot Homepage](./assets/chatbot.png)
+![Chatbot Homepage](./assests/chatbot.png)
 
 ---
 
 ### 🗣️ Asking a Query (Example)
-![User Asking Aadhaar Query](./assets/asking-query.png)
+![User Asking Aadhaar Query](./assests/asking-query.png)
 
 ---
 
 ### ✅ Bot's Response Output
-![Bot Response](./assets/output.png)
+![Bot Response](./assests/output.png)
 
 ---
 
