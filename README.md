@@ -8,7 +8,7 @@ This project includes a **React-based front-end** and is deployed live on **Netl
 
 ## 🌐 Live Demo
 
-🎯 [Click here to use the chatbot live](https://your-netlify-link.netlify.app)  
+🎯 [Click here to use the chatbot live](https://citizen-ai-chatbot.netlify.app/)  
 _(Replace with your actual Netlify link)_
 
 ---
@@ -65,7 +65,7 @@ _(Replace with your actual Netlify link)_
 ## 🔧 How I Built This Project
 
 1. **Created an IBM Cloud Account**
-   - Region: `eu-de` (Germany)
+   - Region: `eu-de` 
    - Created Watson Assistant with Lite plan
 
 2. **Trained the Chatbot**
@@ -86,8 +86,18 @@ _(Replace with your actual Netlify link)_
 ---
 
 ## 📸 Screenshots
+### 🟢 Homepage with Chatbot Integrated
+![Chatbot Homepage](./assets/chatbot.png)
 
-> Add screenshots of your chatbot in action (Optional, but adds value)
+---
+
+### 🗣️ Asking a Query (Example)
+![User Asking Aadhaar Query](./assets/asking-query.png)
+
+---
+
+### ✅ Bot's Response Output
+![Bot Response](./assets/output.png)
 
 ---
 
