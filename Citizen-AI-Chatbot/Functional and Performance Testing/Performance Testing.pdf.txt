@@ -1,0 +1,13 @@
+Performance Testing Summary
+
+The chatbot was tested with 10 different user queries, covering both general and specific intents.
+
+Average Response Time: 1.2 seconds
+
+Success Rate: 100% accurate response for defined intents
+
+Error Handling: Bot successfully redirected to fallback for unrecognized inputs.
+
+Concurrent Users Tested: 2 users simultaneously
+
+The bot maintained stability, and responses were prompt with no delays during testing.

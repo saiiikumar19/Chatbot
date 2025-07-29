@@ -1,0 +1,47 @@
+1. Problem Statement
+Many college students struggle to find structured guidance and mental support during placements and academic stress. A chatbot can bridge this gap.
+
+2. Ideation Phase
+Researched common student issues like anxiety, lack of motivation, and placement stress.
+
+Decided to build a supportive chatbot offering mental well-being tips, interview prep, and general guidance.
+
+3. Design Phase
+Proposed a chatbot using Watson Assistant connected to a front-end (React/Vite).
+
+Solution Architecture includes:
+
+Frontend: React-based chatbot UI
+
+Backend: Watson Assistant for NLP + Firebase for storage
+
+Database: Firebase Firestore or local JSON-based data
+
+4. Project Planning
+A simple Gantt chart outlines phases from ideation to final demo:
+
+Ideation: June 1–3
+
+Design: June 4–6
+
+Setup: June 7–9
+
+Development: June 10–13
+
+Testing: June 14–15
+
+Final Output: June 16–17
+
+5. Testing Phase
+Conducted functional and performance testing.
+
+Average response time: 1.2 seconds.
+
+All test cases passed successfully.
+
+6. Outcome
+Chatbot accepts inputs from users and replies with supportive or helpful content.
+
+Successfully integrated with Watson Assistant.
+
+Screenshot proof included in the submission.

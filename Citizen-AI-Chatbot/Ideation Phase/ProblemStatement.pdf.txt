@@ -1,0 +1,5 @@
+Citizens face difficulties in finding correct information about government schemes and services.
+
+Many struggle with eligibility, language barriers, and complicated websites.
+
+We aim to solve this by creating a multilingual Citizen AI Chatbot that answers public queries in a simple and accessible way.

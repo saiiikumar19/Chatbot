@@ -1,0 +1,10 @@
+**Solution Requirements for Citizen AI Chatbot**
+
+- AI-based chatbot interface for user interaction.
+- Natural language understanding for local languages.
+- Complaint registration form (text + optional photo).
+- Automatic complaint ID generation and tracking.
+- Backend integration with Firebase database.
+- Admin dashboard to view and manage complaints.
+- Feedback collection system post-resolution.
+- 24/7 availability with offline fallback.

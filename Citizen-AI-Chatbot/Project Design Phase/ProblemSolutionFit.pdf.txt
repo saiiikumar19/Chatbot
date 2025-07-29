@@ -1,0 +1,17 @@
+**Problem–Solution Fit**
+
+**Problem:**  
+Citizens often face issues in reporting public complaints. The current process is either manual (offline), slow, or complicated. Many don't receive updates or feedback after submitting their complaints, leading to frustration and distrust in the system.
+
+**Solution:**  
+The Citizen AI chatbot solves this by offering a fast, friendly, and digital method to raise and track complaints. The bot makes it easy to interact in a conversational manner, auto-collects required data, and ensures transparency through complaint tracking and feedback.
+
+**Why it fits well:**
+- Easy to use for both tech-savvy and non-tech users
+- No need to download any app – works from website
+- 24/7 support and real-time issue logging
+- Reduces human workload for officials
+- Feedback loop builds trust and improvement
+- Scalable to multiple government departments
+
+The solution fits perfectly with the problem because it directly addresses the pain points of delay, lack of updates, and poor communication.
