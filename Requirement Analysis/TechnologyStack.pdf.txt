@@ -1,0 +1,9 @@
+**Technology Stack Used in Citizen AI Chatbot Project**
+
+- **Frontend**: React.js
+- **Backend Integration**: IBM Watson Assistant
+- **Database**: Firebase Realtime Database
+- **Cloud Services**: IBM Cloud
+- **Languages**: JavaScript, Python (for logic processing)
+- **Tools**: VS Code, Git, GitHub
+- **Deployment**: Firebase Hosting

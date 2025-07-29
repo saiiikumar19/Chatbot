@@ -1,0 +1,7 @@
+We brainstormed multiple ideas to help citizens access public services more easily.
+
+Some ideas were: a government FAQ chatbot, SMS-based help system, and local language helpline.
+
+After evaluating feasibility and impact, we finalized a multilingual Citizen AI Chatbot using IBM Watson.
+
+This chatbot will answer public queries on schemes, services, and issues.

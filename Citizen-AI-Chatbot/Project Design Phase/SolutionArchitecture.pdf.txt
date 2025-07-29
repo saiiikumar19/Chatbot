@@ -1,0 +1,24 @@
+[CITIZEN USER]
+      |
+      V
+[Frontend UI – React]
+      |
+      V
+[IBM Watson Assistant (Chatbot Engine)]
+      |
+      V
+[FIREBASE DATABASE]
+      |
+      V
+[ADMIN DASHBOARD]
+
+
+
+
+Frontend UI: Receives user input
+
+Watson Assistant: Processes conversation
+
+Firebase: Stores complaints and responses
+
+Admin Dashboard: Shows issues to officials

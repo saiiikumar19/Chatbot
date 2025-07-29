@@ -1,0 +1,13 @@
+[CITIZEN]
+     |
+     V
+[CHATBOT (IBM Watson)]
+     |
+     V
+[Firebase Database]
+     |
+     V
+[ADMIN PANEL]
+     |
+     V
+[STATUS / FEEDBACK TO USER]

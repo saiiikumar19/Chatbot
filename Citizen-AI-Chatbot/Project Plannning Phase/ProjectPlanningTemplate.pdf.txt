@@ -1,0 +1,8 @@
+| **Phase**           | **Task**                              | **Start Date** | **End Date**  | **Status**     |
+| ------------------- | ------------------------------------- | -------------- | ------------- | -------------- |
+| Ideation Phase      | Problem identification & research     | June 1, 2025   | June 3, 2025  | ✅ Completed    |
+| Design Phase        | Create solution idea and architecture | June 4, 2025   | June 6, 2025  | ✅ Completed    |
+| Setup Phase         | Set up Watson Assistant + Firebase    | June 7, 2025   | June 9, 2025  | ✅ Completed    |
+| Development Phase   | Chatbot front-end integration         | June 10, 2025  | June 13, 2025 | 🔄 In Progress |
+| Testing & Debugging | Bug fixes, flow corrections           | June 14, 2025  | June 15, 2025 | ⏳ Planned      |
+| Final Output        | Screenshot, demo, and report creation | June 16, 2025  | June 17, 2025 | ⏳ Planned      |

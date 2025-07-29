@@ -1,0 +1,22 @@
+**Customer Journey – Citizen AI Chatbot**
+
+1. **User Entry Point**  
+   - Citizen opens the chatbot on a public website or mobile.
+
+2. **Complaint Registration**  
+   - User types their issue (e.g., "Street light not working").
+
+3. **Information Collection**  
+   - Chatbot asks for location, photo (optional), and description.
+
+4. **Acknowledgement**  
+   - Bot confirms the complaint is received and shares a tracking ID.
+
+5. **Tracking Updates**  
+   - User can return anytime to check status using ID.
+
+6. **Complaint Resolved**  
+   - User receives closure message once department responds.
+
+7. **Feedback Collection**  
+   - Bot asks for feedback to improve service.

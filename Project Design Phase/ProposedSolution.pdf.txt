@@ -1,0 +1,17 @@
+**Proposed Solution – Citizen AI Chatbot**
+
+The proposed solution is a smart AI-powered chatbot that allows citizens to report public issues (like road damage, garbage, streetlight failure) quickly and easily through natural conversation.
+
+The chatbot will be embedded into a government website or mobile app, where users can describe their problem in plain language. The bot will then ask follow-up questions (like location, image, etc.), generate a complaint ID, and store all the information in a real-time database.
+
+Citizens can later check the status of their complaint using their ID. The bot also allows feedback submission once the issue is resolved.
+
+**Key Features:**
+- Conversational interface (supports English/local language)
+- Complaint submission with tracking
+- Auto-generated complaint ID
+- Admin dashboard to view/manage issues
+- Real-time database integration (Firebase)
+- Feedback system to improve services
+
+This solution is simple, scalable, and can reduce workload on call centers while improving citizen satisfaction.
